@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Data science and AI Course at Essex university,London.
-- 🌱 I’m currently learning Data science Analysis and Extraction of Database,Data visulation,Python (Programming Language) · RStudio · Data Analysis · Scikit-Learn · jupiter · Microsoft Excel
+- 🌱 I’m currently learning Data science Analysis and Extraction of Database,Data visulation,Python (Programming Language) · RStudio · Data Analysis · Scikit-Learn · jupiter · Microsoft Excel , PowerBi visuals 
 - 👯 I’m looking to collaborate on kaggle Competitions
 - 🤔 I’m looking for help with python.I published some open datasets and I cleaned and preprocessed them to make them easily reusable.
 
@@ -30,4 +30,4 @@ Numpy, Pandas,Matplotlib,Scikit-learn,Natural Language Toolkit
 
 IDE:
 
-R studio ,Python ,JupyterLabs ,PyCharm ,Visual Studio Code  
+R studio ,Python ,JupyterLabs ,PyCharm ,Visual Studio Code  ,PowerBi 
