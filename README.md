@@ -15,6 +15,8 @@ Furthermore, I solved some exercises using PostgreSQL and I tried to apply my do
 
 Linkedin -->https://www.linkedin.com/in/madhavi-kagada%F0%9F%8E%AF-7b340b121/
 
+MY CV --> https://madhvikagada.wixsite.com/madhavik
+
 Kaggle --> https://www.kaggle.com/madhavikagada
 
 Email --> madhvikagada@gmail.com
